@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @paulobekki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Technical Writer/Information Architect/Knowledge Manager with system engineering background, focused on agile methodology, and problem solver.
 
-<!---
-paulobekki/paulobekki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced on implementing first processes, Guidelines, Best Practices, and templates for the engineering community (through tools like GitHub, Markdown, Notion, ST4, Confluence, DITA CMS).
+
+Active contribution to leverage the writing culture across the company, as well as the expansion of the Tech Writers team.
